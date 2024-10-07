@@ -136,12 +136,6 @@ footer {
   background-color: #e8491d;
   text-align: center;
 }
-@media(max-width:991px){
-  .about-image{
-    max-width: 100%;
-  }
-}
-
 @media (max-width: 768px) {
   header #branding,
   header nav,
